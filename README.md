@@ -1,4 +1,4 @@
-# High-Altitude Human Deductions with YOLOv8
+# High-Altitude-Human-Deductions-with-YOLOv8
 
 ## Overview
 
@@ -43,7 +43,7 @@ This project uses the YOLOv8 object detection model to detect humans in high-alt
 
 3. **Run the script:**
     ```bash
-    python process_video.py
+    python detect_humans.py
     ```
 
 4. **The output video with annotations will be saved to the specified `output_video_path`.**
