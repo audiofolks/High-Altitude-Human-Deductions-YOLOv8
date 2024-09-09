@@ -1,0 +1,10 @@
+ultralytics==8.0.114  # YOLOv8 package
+torch==2.4.0         # PyTorch for YOLOv8
+numpy==1.24.3        # Numerical computations
+opencv-python==4.7.0.68  # For image processing
+matplotlib==3.8.3    # For visualizing results
+pandas==2.0.2        # For data handling
+scipy==1.10.1        # For scientific computations
+tqdm==4.66.2         # Progress bar for training
+seaborn==0.13.2      # Data visualization
+tensorboard==2.13.0  # For visualizing training progress
